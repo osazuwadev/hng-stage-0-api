@@ -5,7 +5,9 @@ A REST API that predicts gender from a name using the Genderize.io API.
 ## Links
 
 - GitHub Repository: https://github.com/osazuwadev/hng-stage-0-api
-- Live API URL: https://your-live-url.com (update after deployment)
+
+- Public API base URL:
+https://hng-stage-0-api-production.up.railway.app
 
 ## Tech Stack
 
@@ -34,9 +36,7 @@ npm start
 
 
 ## Base URL
-
-
-https://your-live-url.com
+https://hng-stage-0-api-production.up.railway.app
 
 
 ## Endpoint
